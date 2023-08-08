@@ -1,0 +1,17 @@
+C:\Software\CSMSL-develop\bin\x64\Debug\CSMSL.dll
+C:\Software\CSMSL-develop\bin\x64\Debug\CSMSL.pdb
+C:\Software\CSMSL-develop\CSMSL\obj\Debug\CSMSL.csprojResolveAssemblyReference.cache
+C:\Software\CSMSL-develop\CSMSL\obj\Debug\CSMSL.dll
+C:\Software\CSMSL-develop\CSMSL\obj\Debug\CSMSL.pdb
+C:\Software\CSMSL\bin\x64\Debug\CSMSL.dll
+C:\Software\CSMSL\bin\x64\Debug\CSMSL.pdb
+C:\Software\CSMSL\CSMSL\obj\Debug\CSMSL.csproj.AssemblyReference.cache
+C:\Software\CSMSL\CSMSL\obj\Debug\CSMSL.csproj.CoreCompileInputs.cache
+C:\Software\CSMSL\CSMSL\obj\Debug\CSMSL.dll
+C:\Software\CSMSL\CSMSL\obj\Debug\CSMSL.pdb
+C:\Software\CSMSLx64\bin\x64\Debug\CSMSL.dll
+C:\Software\CSMSLx64\bin\x64\Debug\CSMSL.pdb
+C:\Software\CSMSLx64\CSMSL\obj\Debug\CSMSL.csproj.AssemblyReference.cache
+C:\Software\CSMSLx64\CSMSL\obj\Debug\CSMSL.csproj.CoreCompileInputs.cache
+C:\Software\CSMSLx64\CSMSL\obj\Debug\CSMSL.dll
+C:\Software\CSMSLx64\CSMSL\obj\Debug\CSMSL.pdb

@@ -1,0 +1,7 @@
+C:\Software\CSMSL\bin\x64\Debug\CSMSL.dll
+C:\Software\CSMSL\bin\x64\Debug\CSMSL.pdb
+C:\Software\CSMSL\bin\x64\Debug\CSMSL.XML
+C:\Software\CSMSL\CSMSL\obj\Release\CSMSL.csprojAssemblyReference.cache
+C:\Software\CSMSL\CSMSL\obj\Release\CSMSL.csproj.CoreCompileInputs.cache
+C:\Software\CSMSL\CSMSL\obj\Release\CSMSL.dll
+C:\Software\CSMSL\CSMSL\obj\Release\CSMSL.pdb

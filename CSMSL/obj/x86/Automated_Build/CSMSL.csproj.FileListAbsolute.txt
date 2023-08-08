@@ -1,0 +1,5 @@
+C:\Software\CSMSL\bin\x64\Debug\CSMSL.dll
+C:\Software\CSMSL\bin\x64\Debug\CSMSL.pdb
+C:\Software\CSMSL\CSMSL\obj\x86\Automated_Build\CSMSL.csproj.CoreCompileInputs.cache
+C:\Software\CSMSL\CSMSL\obj\x86\Automated_Build\CSMSL.dll
+C:\Software\CSMSL\CSMSL\obj\x86\Automated_Build\CSMSL.pdb

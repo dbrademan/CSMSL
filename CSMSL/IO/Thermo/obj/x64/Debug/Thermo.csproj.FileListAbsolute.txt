@@ -1,0 +1,63 @@
+C:\Software\CSMSL\CSMSL\IO\Thermo\bin\x64\Debug\CSMSL.Thermo.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo\bin\x64\Debug\CSMSL.Thermo.pdb
+C:\Software\CSMSL\CSMSL\IO\Thermo\bin\x64\Debug\CSMSL.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo\bin\x64\Debug\CSMSL.pdb
+C:\Software\CSMSL\CSMSL\IO\Thermo\obj\x64\Debug\Thermo.csprojResolveAssemblyReference.cache
+C:\Software\CSMSL\CSMSL\IO\Thermo\obj\x64\Debug\Interop.MSFileReaderLib.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo\obj\x64\Debug\Thermo.csproj.ResolveComReference.cache
+C:\Software\CSMSL\CSMSL\IO\Thermo\obj\x64\Debug\CSMSL.Thermo.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo\obj\x64\Debug\CSMSL.Thermo.pdb
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\CSMSL.Thermo.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\CSMSL.Thermo.pdb
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\CSMSL.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\ThermoFisher.CommonCore.BackgroundSubtraction.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\ThermoFisher.CommonCore.Data.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\ThermoFisher.CommonCore.MassPrecisionEstimator.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\ThermoFisher.CommonCore.RawFileReader.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\CSMSL.pdb
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\CSMSL.xml
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\ThermoFisher.CommonCore.BackgroundSubtraction.xml
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\ThermoFisher.CommonCore.Data.xml
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\ThermoFisher.CommonCore.MassPrecisionEstimator.xml
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\bin\x64\Debug\ThermoFisher.CommonCore.RawFileReader.xml
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\obj\x64\Debug\Thermo.csproj.AssemblyReference.cache
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\obj\x64\Debug\Thermo.csproj.CoreCompileInputs.cache
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\obj\x64\Debug\Thermo.csproj.CopyComplete
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\obj\x64\Debug\CSMSL.Thermo.dll
+C:\Software\CSMSL\CSMSL\IO\Thermo - NewMsFileReader\obj\x64\Debug\CSMSL.Thermo.pdb
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\CSMSL.Thermo.dll
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\CSMSL.Thermo.pdb
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\CSMSL.dll
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.BackgroundSubtraction.dll
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.Data.dll
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.MassPrecisionEstimator.dll
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.RawFileReader.dll
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\CSMSL.pdb
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.BackgroundSubtraction.xml
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.Data.xml
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.MassPrecisionEstimator.xml
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.RawFileReader.xml
+C:\Software\CSMSLx64\IO\Thermo\obj\x64\Debug\Thermo.csproj.AssemblyReference.cache
+C:\Software\CSMSLx64\IO\Thermo\obj\x64\Debug\Thermo.csproj.CoreCompileInputs.cache
+C:\Software\CSMSLx64\IO\Thermo\obj\x64\Debug\Thermo.csproj.CopyComplete
+C:\Software\CSMSLx64\IO\Thermo\obj\x64\Debug\CSMSL.Thermo.dll
+C:\Software\CSMSLx64\IO\Thermo\obj\x64\Debug\CSMSL.Thermo.pdb
+C:\Software\CSMSLx64\IO\Thermo\bin\x64\Debug\CSMSL.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\CSMSL.Thermo.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\CSMSL.Thermo.pdb
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\CSMSL.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.BackgroundSubtraction.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.Data.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.MassPrecisionEstimator.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.RawFileReader.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\CSMSL.pdb
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\CSMSL.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.BackgroundSubtraction.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.Data.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.MassPrecisionEstimator.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Debug\ThermoFisher.CommonCore.RawFileReader.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Debug\Thermo.csproj.AssemblyReference.cache
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Debug\Thermo.csproj.CoreCompileInputs.cache
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Debug\Thermo.csproj.CopyComplete
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Debug\CSMSL.Thermo.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Debug\CSMSL.Thermo.pdb

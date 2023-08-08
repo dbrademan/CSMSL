@@ -1,0 +1,17 @@
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Automated_Build\Thermo.csproj.AssemblyReference.cache
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Automated_Build\Thermo.csproj.CoreCompileInputs.cache
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\CSMSL.Thermo.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\CSMSL.Thermo.pdb
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\CSMSL.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\ThermoFisher.CommonCore.BackgroundSubtraction.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\ThermoFisher.CommonCore.Data.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\ThermoFisher.CommonCore.MassPrecisionEstimator.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\ThermoFisher.CommonCore.RawFileReader.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\CSMSL.pdb
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\ThermoFisher.CommonCore.BackgroundSubtraction.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\ThermoFisher.CommonCore.Data.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\ThermoFisher.CommonCore.MassPrecisionEstimator.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\bin\x64\Automated_Build\ThermoFisher.CommonCore.RawFileReader.xml
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Automated_Build\Thermo.csproj.CopyComplete
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Automated_Build\CSMSL.Thermo.dll
+C:\Software\CSMSLx64\CSMSL\IO\Thermo\obj\x64\Automated_Build\CSMSL.Thermo.pdb

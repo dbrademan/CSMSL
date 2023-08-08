@@ -1,0 +1,16 @@
+C:\Software\CSMSL-develop\CSMSL\IO\OMSSA\bin\Debug\CSMSL.OMSSA.dll
+C:\Software\CSMSL-develop\CSMSL\IO\OMSSA\bin\Debug\CSMSL.OMSSA.pdb
+C:\Software\CSMSL-develop\CSMSL\IO\OMSSA\bin\Debug\CSMSL.dll
+C:\Software\CSMSL-develop\CSMSL\IO\OMSSA\bin\Debug\CSMSL.pdb
+C:\Software\CSMSL-develop\CSMSL\IO\OMSSA\obj\Debug\CSMSL.OMSSA.dll
+C:\Software\CSMSL-develop\CSMSL\IO\OMSSA\obj\Debug\CSMSL.OMSSA.pdb
+C:\Software\CSMSL\CSMSL\IO\OMSSA\bin\Debug\CSMSL.OMSSA.dll
+C:\Software\CSMSL\CSMSL\IO\OMSSA\bin\Debug\CSMSL.OMSSA.pdb
+C:\Software\CSMSL\CSMSL\IO\OMSSA\bin\Debug\CSMSL.dll
+C:\Software\CSMSL\CSMSL\IO\OMSSA\bin\Debug\CSMSL.pdb
+C:\Software\CSMSL\CSMSL\IO\OMSSA\obj\Debug\CSMSL.OMSSA.dll
+C:\Software\CSMSL\CSMSL\IO\OMSSA\obj\Debug\CSMSL.OMSSA.pdb
+C:\Software\CSMSL\CSMSL\IO\OMSSA\bin\Debug\CSMSL.xml
+C:\Software\CSMSL\CSMSL\IO\OMSSA\obj\Debug\OMSSA.csprojAssemblyReference.cache
+C:\Software\CSMSL\CSMSL\IO\OMSSA\obj\Debug\OMSSA.csproj.CoreCompileInputs.cache
+C:\Software\CSMSL\CSMSL\IO\OMSSA\obj\Debug\OMSSA.csproj.CopyComplete
