@@ -20,8 +20,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3C8C9F05-9C19-4251-95FA-05D7EDC8CAE6}.Automated_Build|Any CPU.ActiveCfg = Automated_Build|Any CPU
 		{3C8C9F05-9C19-4251-95FA-05D7EDC8CAE6}.Automated_Build|Any CPU.Build.0 = Automated_Build|Any CPU
-		{3C8C9F05-9C19-4251-95FA-05D7EDC8CAE6}.Automated_Build|x64.ActiveCfg = Automated_Build|x64
-		{3C8C9F05-9C19-4251-95FA-05D7EDC8CAE6}.Automated_Build|x64.Build.0 = Automated_Build|x64
+		{3C8C9F05-9C19-4251-95FA-05D7EDC8CAE6}.Automated_Build|x64.ActiveCfg = Release|x64
+		{3C8C9F05-9C19-4251-95FA-05D7EDC8CAE6}.Automated_Build|x64.Build.0 = Release|x64
 		{3C8C9F05-9C19-4251-95FA-05D7EDC8CAE6}.Automated_Build|x86.ActiveCfg = Automated_Build|x86
 		{3C8C9F05-9C19-4251-95FA-05D7EDC8CAE6}.Automated_Build|x86.Build.0 = Automated_Build|x86
 		{3C8C9F05-9C19-4251-95FA-05D7EDC8CAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

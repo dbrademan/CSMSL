@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <icon>favicon.ico</icon>
+    <iconUrl>https://github.com/dbrademan/CSMSL/blob/main/CSMSL%20Icons/favicon.ico</iconUrl>
+    <projectUrl>https://github.com/dbrademan/CSMSL/</projectUrl>
+    <description>$description$</description>
+    <releaseNotes>This is an in-house extension of Derek Bailey's C# Mass Spectrometry Library.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Science Mass-Spectrometry Chemistry Proteomics Glycomics Metabolomics</tags>
+  </metadata>
+</package>

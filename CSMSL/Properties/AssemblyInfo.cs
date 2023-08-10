@@ -26,9 +26,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CSMSL")]
 [assembly: AssemblyDescription("C# Mass Spectrometry Library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Coon Lab")]
 [assembly: AssemblyProduct("CSMSL")]
-[assembly: AssemblyCopyright("Copyright  2012, 2013, 2014 Derek J bailey")]
+[assembly: AssemblyCopyright("2012, 2013, 2014 Derek J Bailey; 2020, 2021, 2022, 2023 Dain R Brademan")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -50,7 +50,8 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("0.3.*")]
+[assembly: AssemblyVersion("0.1.*")]
 //[assembly: AssemblyFileVersion("0.3.0.0")]
 
 [assembly: NeutralResourcesLanguage("en-US")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
